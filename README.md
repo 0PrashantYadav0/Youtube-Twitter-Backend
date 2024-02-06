@@ -1,8 +1,7 @@
 # Youtube Backend In Nodejs 
 
-ASSIGNMENT DONE FULLY WORKING  WITH ALL POSSIBLE EDGE CASES !!!!
 
-We are building a complete video hosting website similar to youtube with all the features like login, signup, upload video, like, dislike, comment, reply, subscribe, unsubscribe, and many more.
+We are building a complete video hosting website similar to youtube with all the features like login, signup, upload video, like, dislike, comment, reply, subscribe, unsubscribe, and many more along with the features using tweets.
 
 Check the links to understand
 - [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj?origin=share)
@@ -115,8 +114,7 @@ CLOUDINARY_API_SECRET=your-api-secret
 - run the server
 ```
 $npm run dev
-```
-Any problem you can contact [me](https://twitter.com/Dipeshxdev) 
+``` 
 
 ---
 
